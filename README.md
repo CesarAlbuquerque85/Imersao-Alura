@@ -2,4 +2,4 @@
 Aulas da Imersão Dados Alura
 
 #1 Análise de dados, python, pandas e novos fármacos
-https://www.alura.com.br/imersao-dados/aula01-python-pandas-farmacologia
+<br>https://www.alura.com.br/imersao-dados/aula01-python-pandas-farmacologia
